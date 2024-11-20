@@ -1,10 +1,10 @@
 {
   "name": "rxjs-log-lifecycle",
   "private": false,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An RxJS operator for logging Observable lifecycle events with custom styling",
-  "main": "dist/logOperator.js",
-  "types": "dist/logOperator.d.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "jest",
