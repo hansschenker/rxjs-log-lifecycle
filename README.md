@@ -1,1 +1,5 @@
-Rxjs logging abilities to log operator lifecycle, subscribe, subscription count, next, error, complete, unsubscribe
+# Rxjs operator lifecycle
+
+## Rxjs logging abilities to log operator lifecycle
+
+subscription count, next, error, complete, unsubscribe
